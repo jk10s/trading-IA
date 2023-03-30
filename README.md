@@ -1,1 +1,1 @@
-# trading-IA UPDATE MARZO
+# trading-IA 
